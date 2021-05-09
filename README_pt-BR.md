@@ -42,6 +42,6 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 
 <div align="center">
   
-[![Author](.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![Author](.github/author.jpg)](https://www.linkedin.com/in/wagnerpires/)
 
 </div>

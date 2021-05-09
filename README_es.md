@@ -42,6 +42,6 @@ También trabajé con automatización, habiendo desarrollado ya un producto pate
 
 <div align="center">
   
-[![Author](.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![Author](.github/author.jpg)](https://www.linkedin.com/in/wagnerpires/)
 
 </div>
