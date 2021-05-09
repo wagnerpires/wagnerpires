@@ -6,29 +6,31 @@
   
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
-I'm 25 years old, I work as a Junior Developer at Develcode and I'm a student of Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil, I'm focused on studying the most current languages for web development in order to become a full stack developer.
+<p>
+Tenho 49 anos, trabalho como Desevolvedor Pleno na Cooperforte e sou formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília -UCB, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
+</p>
 
 <details>
-<summary>More about me</summary>
+<p>
+Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e automação bancária
+</p>
 
-I have experience in the industrial market as a machine operator, being responsible for programming the cutting of parts at the beginning of the production line of almost 100 people.
-
-I also worked with automation, having already developed a patented and automated product, a process for making industrial sewing machines, triggering cuts to separate parts in 0.7 milliseconds with embedded programming in C and C ++, boosting production and avoiding waste of materials.
+<p>
+Também atuei com gestor de demandas, na Capgemini Brasil.
+</p>
 
 </details>
 
----
-
-## 📌 Skills
+## 📌 Habilidades
 
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 
-## 📚 Learning
+## 📚 Estudando
 
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
