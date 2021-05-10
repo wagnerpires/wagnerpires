@@ -1,16 +1,16 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
 <p>
-Tenho 49 anos, trabalho como Desevolvedor Pleno na Cooperforte e sou formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília -UCB, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
+Tenho 49 anos, trabalho como Desenvolvedor Pleno na Cooperforte (Delphi) e sou formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília -UCB, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
 </p>
 
 <details>
 <p>
-Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e automação bancária
+Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e automação.
 </p>
 
 <p>
-Também atuei com gestor de demandas, na Capgemini Brasil.
+Também atuei com gestor de demandas, na Capgemini Brasil, Indra como desenvolvedor sênior Delphi, entre outros.
 </p>
 
 </details>
