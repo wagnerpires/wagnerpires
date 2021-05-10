@@ -10,7 +10,7 @@ Possuo experiência no ramo bancário como analista de sistemas sendo responsáv
 </p>
 
 <p>
-Também atuei com gestor de demandas, na Capgemini Brasil, Indra como desenvolvedor sênior Delphi, entre outros.
+Também atuei com gestor de demandas, na Capgemini Brasil, Indra, Ibama e Presidência da República como desenvolvedor sênior Delphi, entre outros.
 </p>
 
 </details>
