@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
 <p>
-Tenho 49 anos, trabalho como Desenvolvedor Pleno na Cooperforte (Delphi) e sou formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília -UCB, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
+Tenho 49 anos, trabalho como Desenvolvedor Pleno numa empresa do ramo bancário (Delphi) e sou formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília - UCB, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
 </p>
 
 <details>
