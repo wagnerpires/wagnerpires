@@ -32,8 +32,4 @@ Também atuei com gestor de demandas, na Capgemini Brasil, Indra, Ibama e Presid
 
 ---
 
-<div align="center">
-  
-[![Author](.github/author.jpg)](https://www.linkedin.com/in/wagnerpires/)
 
-</div>
