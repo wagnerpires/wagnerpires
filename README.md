@@ -1,12 +1,12 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
 <p>
-Tenho 49 anos, trabalho como Desenvolvedor Pleno (Delphi e Java), sou formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília - UCB e pós graduando em Desenvolvimento de Sistemas em Java, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack (Java).
+Trabalhando há mais de 20 anos como analista e desenvolvedor,formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília - UCB e pós graduando em Desenvolvimento de Sistemas em Java, estou focado nos estudos das linguagens para desenvolvimento web mais atuais.
 </p>
 
 <details>
 <p>
-Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e automação.
+Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e de automação.
 </p>
 
 <p>
