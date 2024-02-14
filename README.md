@@ -27,6 +27,12 @@ Também atuei com gestor de demandas na Capgemini Brasil, Indra com desenvolvime
 [![Java badge](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white&link=https://www.java.com)](https://www.java.com)
 [![Spring badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white&link=https://spring.io/projects/spring-boot)](https://spring.io/projects/spring-boot)
 
+[![Made with Node](https://img.shields.io/badge/dynamic/json?label=node&query=%24.engines%5B%22node%22%5D&url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelCurrin%2Fbadge-generator%2Fmaster%2Fpackage.json)](https://nodejs.org "Go to Node.js homepage")
+[![Package - Yarn](https://img.shields.io/badge/yarn->=1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com "Go to Yarn classic homepage")
+[![Package - Vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/badge-generator/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue "Go to Vue on NPM")
+[![Package - Typescript](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/badge-generator/dev/typescript?logo=typescript&logoColor=white)](https://www.npmjs.com/package/typescript "Go to TypeScript on NPM")
+
+
 ---
 
 
