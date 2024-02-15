@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Bem-vindo ao meu perfil
 
 <p>
 Trabalhando há mais de 20 anos como analista e desenvolvedor, formado em Gestão em Tecnologia da Informação na Universidade Católica de Brasília - UCB e pós graduado em Desenvolvimento de Sistemas em Java, estou focado nos estudos das linguagens para desenvolvimento web mais atuais.
